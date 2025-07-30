@@ -1,5 +1,6 @@
 using System.Text.Json;
 using System.Xml.Serialization;
+using Microsoft.AspNetCore.Mvc;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
