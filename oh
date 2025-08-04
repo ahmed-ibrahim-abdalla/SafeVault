@@ -1,0 +1,17 @@
+What they did well:
+
+The project demonstrates a solid understanding of secure coding principles and modern web application security practices.
+
+The use of GitHub Copilot was effective and clearly documented, showing how AI can assist in both code generation and debugging.
+
+Implementation of key security features like input validation, parameterized queries, JWT-based authentication, and RBAC was done correctly and thoughtfully.
+
+The summary clearly explains vulnerabilities, solutions, and the AI’s role, which adds transparency and educational value.
+
+Areas for improvement:
+
+It would be helpful to include test coverage reports or logs to demonstrate that all security features were adequately tested.
+
+Adding comments or inline documentation in critical sections (like authentication and input sanitization logic) could make the code easier to review and maintain.
+
+The UI (if present) could have been briefly described or screenshotted to give context to the end-user flow and how security measures impact it.
